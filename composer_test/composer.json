@@ -1,0 +1,12 @@
+{
+    "name": "adam/composer_test",
+    "authors": [
+        {
+            "name": "xiaoshenge",
+            "email": "xiaoshengeer@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^3.3"
+    }
+}
