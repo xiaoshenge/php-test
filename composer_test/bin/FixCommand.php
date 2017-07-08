@@ -6,7 +6,7 @@
  * Date: 2017/6/29 15:21
  *
  */
-namespace bin\Command;
+namespace bin;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

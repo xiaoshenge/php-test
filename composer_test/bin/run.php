@@ -23,8 +23,8 @@ $application = new Application();
 // ... register commands
 
 
-$application->add(new bin\Command\TestCommand());
-$application->add(new bin\Command\FixCommand());
+$application->add(new bin\TestCommand());
+$application->add(new bin\FixCommand());
 
 
 $application->run();
