@@ -1,0 +1,24 @@
+{
+    "name": "root/phpunit",
+    "authors": [
+        {
+            "name": "xiaoshenge",
+            "email": "xiaoshengeer@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+    }
+}
